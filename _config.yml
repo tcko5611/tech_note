@@ -1,5 +1,5 @@
 # Site
-url                 : http://xareelee.github.io
+url                 : http://tcko5611.github.io
 baseurl             : /tech_note
 
 # Dependencies
@@ -16,10 +16,10 @@ title               : Xaree
 tagline             : Tech Notes
 description         : 岡。開發
 author:
-  name              : "Xaree Lee"
-  email             : "xareelee@gmail.com"
-  url               : "http://xareelee.github.io/"
+  name              : "Te-Ching Ko"
+  email             : "teching.ko@gmail.com"
+  url               : "http://tcko5611.github.io/"
   facebook_username : leondemon
-  twitter_username  : xareelee
-  github_username   : xareelee
+  twitter_username  : tcko5611
+  github_username   : tcko5611
   
